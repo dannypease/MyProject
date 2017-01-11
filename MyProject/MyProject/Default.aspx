@@ -13,5 +13,6 @@
         <p>Password should stay: <input /></p>        <button>Login</button>
     </div>
     </form>
+    <p>A new paragraph</p>
 </body>
 </html>
