@@ -14,5 +14,6 @@
     </div>
     </form>
     <p>A new paragraph</p>
+    <p>A new paragraph</p>
 </body>
 </html>
