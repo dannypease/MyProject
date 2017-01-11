@@ -11,7 +11,7 @@
     <div>
         <h2>Hello My Project! Dev ! Here's Jonny!!! And he's got big balls!!</h2>
         <p>Username: <input /></p>
-        <p>Password: <input /></p>
+        <p>Password should stay: <input /></p>
         <button>Login</button>
     </div>
     </form>
