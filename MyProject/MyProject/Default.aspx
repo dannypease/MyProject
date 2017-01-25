@@ -10,16 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <h2>Hello My Project! Dev ! Here's Jonny!!! And he's got big balls!!</h2>
-        <p>This has been changed by another user</p>
-        <p>Another change</p>
-        <p>Another change</p>
-        <p>Another change</p>
-        <p>Another change</p>
-        <p>Another change</p>
-        <p>Another change</p>
-        <p>Production</p>
-        
-        <p>This is a hotfix</p>
+
     </div>
     </form>
 </body>
