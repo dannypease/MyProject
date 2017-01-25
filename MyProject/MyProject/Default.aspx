@@ -10,19 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <h2>Hello My Project! Dev ! Here's Jonny!!! And he's got big balls!!</h2>
-        <p>Password should stay: <input /></p>        <button>Login</button>
     </div>
     </form>
-    <p>A new paragraph</p>
-    <p>A new paragraph</p>
-    <p>A new paragraph</p>
-
-    <h4>Feature Two Change</h4>
-    <h4>Feature Two Change</h4>
-    <h4>Feature Two Change</h4>
-    <h4>Feature Two Change</h4>
-    
-    <p>More Changes</p>
-    
 </body>
 </html>
